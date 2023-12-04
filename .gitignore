@@ -33,3 +33,6 @@
 
 # pdf
 *.pdf
+
+# vscode
+/.vscode
