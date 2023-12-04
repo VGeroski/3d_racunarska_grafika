@@ -35,4 +35,4 @@
 *.pdf
 
 # vscode
-/.vscode
+*.vscode
