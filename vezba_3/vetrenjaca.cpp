@@ -29,7 +29,7 @@ double global_blue = 0.00;
 double global_shadow_green = 0.25;
 double global_ground_green = 0.60;
 
-bool will_thunder = false;
+bool will_thunder = true;
 bool thundering = true;
 bool thunder_black = true;
 bool thunder_white = false;
